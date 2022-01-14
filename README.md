@@ -60,5 +60,5 @@ Do **Fork** And **Star** The Repository If You Liked It.
 
 [![Ask Me Anything !](https://img.shields.io/badge/🤔%20Ask%20Me-Anything-1abc9c.svg)](https://telegram.dog/PR0FESS0R_99)
 [![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://telegram.dog/)
-[![Join Channel !](https://badgen.net/badge/🔊%20Join%20/Channel/Black)](https://telegram.dog/mo_tech_YT)
+[![Join Channel ](https://badgen.net/badge/🔊%20Join%20/Channel/Black)](https://telegram.dog/mo_tech_YT)
 
