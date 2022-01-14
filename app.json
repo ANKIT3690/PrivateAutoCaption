@@ -13,28 +13,28 @@
     "success_url": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
     "env": {
         "APP_ID": {
-            "description": "Your APP ID From my.telegram.org or @MT_MyTelegramOrg_Bot",
+            "description": "Your APP ID From my.telegram.org or @thewarriorsreal for an help",
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API Hash From my.telegram.org or @MT_MyTelegramOrg_Bot",
+            "description": "Your API Hash From my.telegram.org or @thewarriorsreal",
             "value": ""
         },
-        "MT_BOT_TOKEN": {
+        "BOT_TOKEN": {
             "description": "Your Bot Token From @BotFather",
             "value": ""
         },
         "BUTTON": {
-            "description": "Button Name",
-            "required": false
+            "description": "Button Name (recommended True)",
+            "required": True
         },
         "CAPTION": {
             "description": "Caption Text",
             "required": false
         },
         "LINK": {
-            "description": " Group Or Chanenl) Public Link Link",
-            "value": "t.me/mo_tech_yt"
+            "description": " Group Or Channel Public Link",
+            "value": "t.me/thewarriorsreal"
         },
         "BOT_USERNAME": {
             "description": "Your Bot Username From @BotFather",
