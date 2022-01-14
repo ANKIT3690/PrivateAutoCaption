@@ -26,7 +26,7 @@
         },
         "BUTTON": {
             "description": "Button Name (recommended True)",
-            "required": True
+            "required": False
         },
         "CAPTION": {
             "description": "Caption Text",
